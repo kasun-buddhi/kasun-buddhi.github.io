@@ -2,45 +2,45 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/about/</loc>
+    <loc>kasunbuddhi.com/about/</loc>
     <lastmod>2022-04-09T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>/infographics/</loc>
+    <loc>kasunbuddhi.com/infographics/</loc>
     <lastmod>2022-04-09T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>/blogs/</loc>
+    <loc>kasunbuddhi.com/blogs/</loc>
     <lastmod>2022-04-08T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>/blogs/how-to-master-streamlit-for-data-science/</loc>
+    <loc>kasunbuddhi.com/blogs/how-to-master-streamlit-for-data-science/</loc>
     <lastmod>2022-04-08T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>/</loc>
+    <loc>kasunbuddhi.com/</loc>
     <lastmod>2022-04-08T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>/projects/</loc>
+    <loc>kasunbuddhi.com/projects/</loc>
     <lastmod>2022-04-06T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>/projects/reproducible-computational-drug-discovery/</loc>
+    <loc>kasunbuddhi.com/projects/reproducible-computational-drug-discovery/</loc>
     <lastmod>2022-04-06T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>/projects/erpred/</loc>
+    <loc>kasunbuddhi.com/projects/erpred/</loc>
     <lastmod>2022-04-05T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>/projects/acetylcholinesterase/</loc>
+    <loc>kasunbuddhi.com/projects/acetylcholinesterase/</loc>
     <lastmod>2022-04-04T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>/blogs/what-is-bioinformatics/</loc>
+    <loc>kasunbuddhi.com/blogs/what-is-bioinformatics/</loc>
     <lastmod>2022-04-03T23:15:00+07:00</lastmod>
   </url><url>
-    <loc>/tags/first/</loc>
+    <loc>kasunbuddhi.com/tags/first/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>/page/</loc>
+    <loc>kasunbuddhi.com/page/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>kasunbuddhi.com/tags/</loc>
     <lastmod>2020-09-15T11:30:03+00:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>kasunbuddhi.com/categories/</loc>
   </url>
 </urlset>
