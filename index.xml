@@ -31,12 +31,12 @@ Application We are concentrating on enhancing PULP uDMA system with peripherals.
     </item>
     
     <item>
-      <title>Introduction to the axi</title>
-      <link>https://kasunbuddhi.com/projects/introduction-to-the-uvm/</link>
+      <title>AXI4S FIFO test unit</title>
+      <link>https://kasunbuddhi.com/projects/axi4s-fifo-test-unit/</link>
       <pubDate>Tue, 09 Aug 2022 23:15:00 +0700</pubDate>
       
-      <guid>https://kasunbuddhi.com/projects/introduction-to-the-uvm/</guid>
-      <description>Introduction to the axi4s This will help to verify modules which contains AXI4-Stream ports. This is a project which I have done with Accelr team. The purpose of this VIP is to facilitate the verification process of RTL DUTs that utilize the AXI4-Stream protocol. By integrating our VIP, design and verification engineers gain the ability to customize packets that adhere to the AXI4-Stream protocol, enabling comprehensive testing of their designs.</description>
+      <guid>https://kasunbuddhi.com/projects/axi4s-fifo-test-unit/</guid>
+      <description>AXI4S FIFO test unit This will help to verify modules which contains AXI4-Stream ports. This is a project which I have done with Accelr team. The purpose of this VIP is to facilitate the verification process of RTL DUTs that utilize the AXI4-Stream protocol. By integrating our VIP, design and verification engineers gain the ability to customize packets that adhere to the AXI4-Stream protocol, enabling comprehensive testing of their designs.</description>
     </item>
     
     <item>
